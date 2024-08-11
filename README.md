@@ -20,6 +20,6 @@ If you want to connect about non-cyber things, start with the following:
 - Cats (especially if pictures are involved)
 - Music 
 - Diveristy/ Inclusion
-- Acrobatics & Performance-based Sports *(trapeze, aerials, gymnastics, stunting, etc.)*
+- Acrobatics Sports *(trapeze, aerials, gymnastics, stunting, etc.)*
 
 Feel free to connect via email **banshi.hacks@gmail.com**
