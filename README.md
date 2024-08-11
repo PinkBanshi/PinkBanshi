@@ -2,7 +2,8 @@ Hello friends, enemies, and everyone in between,
 
 I’m **@PinkBanshi (she/her)** and this will act as a portfolio of sorts for my cyber journey. 
 
-I have worked in cyber tool development (coding focused cyber tools) for the past two years, but want to venture more into the **pentesting**, or **purple team** side of cyber. 
+I have worked in cyber tool development (coding focused cyber tools) for the past two years, but want to venture more into **pentesting** & **purple team**.
+
 Current focus:
 - Web API hacking (following through No Starch Press' API Hacking)
 - Industrial Control Systems
